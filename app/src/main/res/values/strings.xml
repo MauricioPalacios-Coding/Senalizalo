@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Señalizalo</string>
+    <string name="txt_somos">Somos una empresa 100% Mexicana comprometida con el lenguaje inclusivo para que las personas que
+    asi lo desean puedan comunicarse de manera amigable con una persona sordomuda.</string>
+    <string name="txt_acerca_de">La app Señalizalo! es una recopilación de traducciones al lenguaje LSM.
+    La cual por medio de imagenes animadas y/o estaticas permite a una persona interactuar con una persona
+    sordomuda para comunicarle algun mensaje corto y de manera rapida sin que este sepa el lenguaje LSM.
+    Después de una exhausta investigación se recopilaron las imagenes necesarias para poder acercar a estos dos usuarios
+    a una comunicación mas amigable.
+   </string>
+    <string name="txt_conoceMas"> ¿Qué es LSM?
+        La lengua de señas mexicana (LSM) es la lengua de señas que utiliza la comunidad sorda en México y, como toda lengua,
+    posee su propia sintaxis, gramática y léxico. De acuerdo con la definición de la Ley General de las Personas con Discapacidad,
+    la lengua de señas mexicana es la lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados
+    con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística
+    de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier otra lengua oral</string>
+    <string name="txt_donaciones">Si deseas ayudar a la app Señalizalo! para seguir programando esta aplicación y otras mas geniales
+    puedes donar por medio de nuestros metodos oficiales.</string>
+</resources>

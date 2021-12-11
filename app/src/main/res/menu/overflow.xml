@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--AGREGAMOS UN MENU-->
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--AGREGAMOS LOS ITEMS QUE OCUPAREMOS EN NUESTRO MENU-->
+    <item
+        android:id="@+id/mn_inicio"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/mn_acerca_de"
+        android:title="Acerca de..." />
+    <item
+        android:id="@+id/mn_conoce_mas"
+        android:title="Conoce más" />
+    <item
+        android:id="@+id/mn_somos"
+        android:title="¿Quiénes somos?" />
+    <item
+        android:id="@+id/mn_donaciones"
+        android:title="Donaciones :) " />
+</menu>
